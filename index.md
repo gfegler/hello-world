@@ -8,6 +8,6 @@ Text goes here.
 
 
 
-# this is head 1
+# this is header 1
 ## this is header 2
 ### this is header 3
